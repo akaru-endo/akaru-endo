@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 I'm Aharu Endo - @akaru-endo
+#  I'm Aharu Endo - @akaru-endo
 
 ### アルゴリズムを専門で勉強しています。
 
@@ -11,12 +11,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 制御情報専攻
-- 🌱 C++ / C言語 勉強中
+-  制御情報専攻
+-  C++ / C言語 勉強中
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
