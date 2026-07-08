@@ -1,10 +1,9 @@
 <div align="center">
 
-# 遠藤明瑠
+# 👋 I'm Aharu Endo - @akaru-endo
 
 ### アルゴリズムを専門で勉強しています。
 
-<!-- YOUR_USERNAME を自分のGitHub IDに書き換えてください -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akaru-endo)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
 
@@ -30,11 +29,25 @@
 
 ## 📊 GitHub Stats
 
-<!-- エラーが出にくいシンプルなステータスカードに変更しました -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaru-endo&show_icons=true&theme=radical&hide_rank=true)
+<!-- 左右に並べるためにHTMLタグを使っています -->
+<p align="center">
+  <!-- 左側：総合ステータス（テーマ：tokyonight） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akaru-endo&show_icons=true&theme=tokyonight&locale=en" width="48%" />
+  <!-- 右側：使用言語の割合（テーマ：tokyonight） -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaru-endo&layout=compact&theme=tokyonight&locale=en" width="48%" />
+</p>
 
-<!-- 活動記録（草）のグラフです（これはきれいに表示されていたのでそのまま残します） -->
-![GitHub Contribution Grid Snake](https://images.weserv.nl/?url=ghchart.rshah.org/2d9cdb/akaru-endo)
+<!-- 下側：トロフィー（画像の下部にあったバッジ群です） -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=tokyonight&column=7&margin-w=5" alt="github-profile-trophy" />
+  </a>
+</p>
+
+<!-- 活動記録（草）もトーンを合わせるためにダーク系に調整しました -->
+<p align="center">
+  <img src="https://images.weserv.nl/?url=ghchart.rshah.org/00599c/akaru-endo" alt="GitHub Contribution Grid Snake" />
+</p>
 
 ---
 
