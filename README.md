@@ -29,11 +29,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-<!-- YOUR_USERNAME を自分のGitHub IDに書き換えるとグラフが表示されます -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaru-endo&show_icons=true&theme=radical)
+<!-- 確実に表示される別サービス（GitHub Readme Streak Stats）に変更しました -->
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=akaru-endo&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaru-endo&layout=compact&theme=radical)
+<!-- あなたのGitHubの草（活動記録）をそのまま表示するシンプルな画像です -->
+![GitHub Contribution Grid Snake](https://images.weserv.nl/?url=ghchart.rshah.org/2d9cdb/akaru-endo)
 
 ---
 
@@ -41,7 +42,7 @@
 
 ### 💬 一緒に成長できる仲間を探しています!
 
-<!-- YOUR_USERNAME を自分のGitHub IDに書き換えてください -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakaru-endo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=訪問者&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- アクセスカウンターのリンク先も修正しました -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakaru-endo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=訪問者&edge_flat=false)](https://github.com/akaru-endo)
 
 </div>
