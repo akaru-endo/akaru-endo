@@ -49,12 +49,3 @@
   <img src="https://images.weserv.nl/?url=ghchart.rshah.org/00599c/akaru-endo" alt="GitHub Contribution Grid Snake" />
 </p>
 
----
-
-<div align="center">
-
-### 💬 一緒に成長できる仲間を探しています!
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakaru-endo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=訪問者&edge_flat=false)](https://github.com/akaru-endo)
-
-</div>
