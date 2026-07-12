@@ -38,11 +38,7 @@
 </p>
 
 <!-- 下側：トロフィー（画像の下部にあったバッジ群です） -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   　 https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=onedark
-  </a>
-</p>
+https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=onedark
 
 <!-- 活動記録（草）もトーンを合わせるためにダーク系に調整しました -->
 <p align="center">
