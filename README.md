@@ -45,13 +45,3 @@
 <p align="center">
   <img src="https://images.weserv.nl/?url=ghchart.rshah.org/00599c/akaru-endo" alt="GitHub Contribution Grid Snake" />
 </p>
-
-<!-- 下側：トロフィー（画像の下部にあったバッジ群です） -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akaru-endo/akaru-endo/main/image_0.png" alt="GitHub Profile Trophy" />
-</p>
-
-<!-- 活動記録（草） -->
-<p align="center">
-  <img src="https://images.weserv.nl/?url=ghchart.rshah.org/00599c/akaru-endo" alt="GitHub Contribution Grid Snake" />
-</p>
