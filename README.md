@@ -40,7 +40,7 @@
 <!-- 下側：トロフィー（画像の下部にあったバッジ群です） -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=tokyonight&column=7&margin-w=5" alt="github-profile-trophy" />
+   　 https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=onedark
   </a>
 </p>
 
