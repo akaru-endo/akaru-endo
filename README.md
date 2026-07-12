@@ -38,8 +38,9 @@
 </p>
 
 <!-- 下側：トロフィー（画像の下部にあったバッジ群です） -->
-https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=onedark
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=onedark" alt="GitHub Profile Trophy" />
+</p>
 <!-- 活動記録（草）もトーンを合わせるためにダーク系に調整しました -->
 <p align="center">
   <img src="https://images.weserv.nl/?url=ghchart.rshah.org/00599c/akaru-endo" alt="GitHub Contribution Grid Snake" />
