@@ -11,6 +11,12 @@
 
 ---
 
+<!-- 画面を左右に分割する表の設定 -->
+<table width="100%" border="0">
+  <tr>
+    <!-- 左側：自己紹介とスキル（Languages & Tools） -->
+    <td width="45%" valign="top">
+
 ##  About Me
 
 -  制御情報専攻
@@ -19,27 +25,18 @@
 ##  Tech Stack
 
 ### Languages & Tools
-<!-- 各アイコンを横一列に並べる設定 -->
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats & 🏆 Trophies
-
-<!-- 見えない表を作って、Statsとグラフ、トロフィーをきれいに横並びにする設定 -->
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-theta-pink-24.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark" alt="GitHub stats" />
     </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-theta-pink-24.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=vue-dark" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
-      <br />
-      <img src="https://github-profile-trophy-six-psi.vercel.app/?username=akaru-endo&theme=onedark" alt="GitHub Trophies" />
+    <!-- 右側：GitHub Stats（縦に2つ並べる） -->
+    <td width="55%" align="center" valign="top">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats-theta-pink-24.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark" alt="GitHub stats" /><br /><br />
+<img src="https://github-readme-stats-theta-pink-24.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=vue-dark" alt="Top Langs" />
+
     </td>
   </tr>
 </table>
