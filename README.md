@@ -31,8 +31,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-nj0lct5ro-ak-project1.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark)
+![GitHub stats](https://github-readme-stats-ak-project1.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats-nj0lct5ro-ak-project1.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats-ak-project1.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=vue-dark)
 
 </div>
