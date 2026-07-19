@@ -29,19 +29,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- 左右に並べるためにHTMLタグを使っています -->
-<p align="center">
-  <!-- 左側：総合ステータス（テーマ：tokyonight） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akaru-endo&show_icons=true&theme=tokyonight&locale=en" width="48%" />
-  <!-- 右側：使用言語の割合（テーマ：tokyonight） -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaru-endo&layout=compact&theme=tokyonight&locale=en" width="48%" />
-</p>
+![GitHub stats](https://github-readme-stats-nj0lct5ro-ak-project1.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark)
 
-<!-- 下側：トロフィー（画像の下部にあったバッジ群です） -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akaru-endo&theme=onedark"/>
-</p>
-<!-- 活動記録（草）もトーンを合わせるためにダーク系に調整しました -->
-<p align="center">
-  <img src="https://images.weserv.nl/?url=ghchart.rshah.org/00599c/akaru-endo" alt="GitHub Contribution Grid Snake" />
-</p>
+![GitHub stats](https://github-readme-stats-nj0lct5ro-ak-project1.vercel.app/api?username=yourname&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats-nj0lct5ro-ak-project1.vercel.app/api/top-langs?username=yourname&layout=compact&theme=vue-dark)
+
