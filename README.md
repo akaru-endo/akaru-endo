@@ -33,6 +33,8 @@
 
 ![GitHub stats](https://github-readme-stats-theta-pink-24.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark)
 
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
