@@ -2,7 +2,7 @@
 
 # - @akaru-endo -
 
-### アルゴリズムを勉強しています。
+### Learning Algorithms & Data Structures
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akaru-endo)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
@@ -17,8 +17,8 @@
     <td width="40%" valign="top">
       <h3>About Me</h3>
       <ul>
-        <li>制御情報専攻</li>
-        <li>C++ / C言語 勉強中</li>
+        <li>Specialized in control information</li>
+        <li>Studying C++ / C </li>
       </ul>
       <br />
       <h3>Tech Stack</h3>
