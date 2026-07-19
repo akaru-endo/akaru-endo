@@ -35,11 +35,3 @@
 
 ![Top Langs](https://github-readme-stats-theta-pink-24.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=vue-dark)
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy-six-psi.vercel.app/?username=akaru-endo&theme=onedark)
-
-</div>
