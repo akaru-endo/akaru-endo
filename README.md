@@ -1,6 +1,6 @@
 <div align="center">
 
-#  I'm Akaru Endo - @akaru-endo
+# - @akaru-endo -
 
 ### アルゴリズムを勉強しています。
 
