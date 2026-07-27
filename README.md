@@ -19,7 +19,7 @@
       <h3>About Me</h3>
       <ul>
         <li>Specialized in control information</li>
-        <li>Studying C++ / C </li>
+        <li>Studying C </li>
       </ul>
       <br />
       <h3>Tech Stack</h3>
