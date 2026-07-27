@@ -1,6 +1,6 @@
 <div align="center">
 
-# - @akaru-endo -
+# -- @akaru-endo --
 
 ### Learning Algorithms & Data Structures
 
