@@ -36,7 +36,7 @@
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats-theta-pink-24.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark" alt="GitHub stats" />
       <br /><br />
-      <img src="https://github-readme-stats-theta-pink-24.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=vue-dark" alt="Top Langs" />
+      <img src="https://github-readme-stats-theta-pink-24.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=tokyonight" alt="Top Langs" />
     </td>
   </tr>
 </table>
