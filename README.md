@@ -31,12 +31,6 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
-    <!-- 右側：GitHub Stats -->
-    <td width="60%" align="center" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats-theta-pink-24.vercel.app/api?username=akaru-endo&show_icons=true&theme=vue-dark" alt="GitHub stats" />
-      <br /><br />
-      <img src="https://github-readme-stats-theta-pink-24.vercel.app/api/top-langs?username=akaru-endo&layout=compact&theme=tokyonight" alt="Top Langs" />
-    </td>
+   
   </tr>
 </table>
