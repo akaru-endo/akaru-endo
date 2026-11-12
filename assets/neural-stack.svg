@@ -1,84 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
   <style>
-    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#24292f;font-size:14px}
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#24292f;font-size:15px}
     @media (prefers-color-scheme: dark){text{fill:#e6edf3}}
-    .dim{fill:#8b949e;font-size:11px;letter-spacing:3px}
-    .n{fill:none;stroke:#8b949e;stroke-opacity:.7}
-    .e{stroke:#8b949e;stroke-opacity:.2;stroke-width:1}
-    .h{stroke:#8b949e;stroke-opacity:.5;stroke-width:1.2}
+    .dim{fill:#8b949e;font-size:13px}
+    .n{fill:none;stroke:#8b949e;stroke-opacity:.75}
+    .hot{stroke:#58a6ff;stroke-opacity:.95}
+    .e{stroke:#8b949e;stroke-opacity:.2}
+    .h{stroke:#8b949e;stroke-opacity:.55}
   </style>
 
-  <!-- 列ラベル -->
-  <text class="dim" x="130" y="34" text-anchor="middle">LANGUAGES</text>
-  <text class="dim" x="470" y="34" text-anchor="middle">DATA &amp; ML</text>
-  <text class="dim" x="840" y="34" text-anchor="middle">GOAL</text>
+  <text class="dim" x="90"  y="34" text-anchor="middle">LANGUAGES</text>
+  <text class="dim" x="300" y="34" text-anchor="middle">DATA &amp; ML</text>
+  <text class="dim" x="520" y="34" text-anchor="middle">GOAL</text>
 
-  <!-- 入力層 → 隠れ層（全結合。Python は強調） -->
+  <!-- 入力層 → 隠れ層 -->
   <g>
-    <line class="e" x1="190" y1="90"  x2="400" y2="90"/>
-    <line class="e" x1="190" y1="90"  x2="400" y2="170"/>
-    <line class="e" x1="190" y1="90"  x2="400" y2="250"/>
-    <line class="e" x1="190" y1="90"  x2="400" y2="330"/>
-    <line class="h" x1="190" y1="170" x2="400" y2="90"/>
-    <line class="h" x1="190" y1="170" x2="400" y2="170"/>
-    <line class="h" x1="190" y1="170" x2="400" y2="250"/>
-    <line class="h" x1="190" y1="170" x2="400" y2="330"/>
-    <line class="e" x1="190" y1="250" x2="400" y2="90"/>
-    <line class="e" x1="190" y1="250" x2="400" y2="170"/>
-    <line class="e" x1="190" y1="250" x2="400" y2="250"/>
-    <line class="e" x1="190" y1="250" x2="400" y2="330"/>
-    <line class="e" x1="190" y1="330" x2="400" y2="90"/>
-    <line class="e" x1="190" y1="330" x2="400" y2="170"/>
-    <line class="e" x1="190" y1="330" x2="400" y2="250"/>
-    <line class="e" x1="190" y1="330" x2="400" y2="330"/>
+    <line class="e" x1="150" y1="90"  x2="240" y2="90"/><line class="e" x1="150" y1="90"  x2="240" y2="160"/><line class="e" x1="150" y1="90"  x2="240" y2="230"/><line class="e" x1="150" y1="90"  x2="240" y2="300"/>
+    <line class="h" x1="150" y1="160" x2="240" y2="90"/><line class="h" x1="150" y1="160" x2="240" y2="160"/><line class="h" x1="150" y1="160" x2="240" y2="230"/><line class="h" x1="150" y1="160" x2="240" y2="300"/>
+    <line class="e" x1="150" y1="230" x2="240" y2="90"/><line class="e" x1="150" y1="230" x2="240" y2="160"/><line class="e" x1="150" y1="230" x2="240" y2="230"/><line class="e" x1="150" y1="230" x2="240" y2="300"/>
+    <line class="e" x1="150" y1="300" x2="240" y2="90"/><line class="e" x1="150" y1="300" x2="240" y2="160"/><line class="e" x1="150" y1="300" x2="240" y2="230"/><line class="e" x1="150" y1="300" x2="240" y2="300"/>
   </g>
 
   <!-- 隠れ層 → 出力 -->
   <g>
-    <line class="h" x1="540" y1="90"  x2="796" y2="210"/>
-    <line class="h" x1="540" y1="170" x2="796" y2="210"/>
-    <line class="h" x1="540" y1="250" x2="796" y2="210"/>
-    <line class="h" x1="540" y1="330" x2="796" y2="210"/>
+    <line class="h" x1="360" y1="90"  x2="477" y2="195"/>
+    <line class="h" x1="360" y1="160" x2="477" y2="195"/>
+    <line class="h" x1="360" y1="230" x2="477" y2="195"/>
+    <line class="h" x1="360" y1="300" x2="477" y2="195"/>
   </g>
 
-  <!-- 流れる信号 -->
+  <!-- 信号 -->
   <g fill="#58a6ff">
-    <circle r="3"><animateMotion dur="3s" begin="0s" repeatCount="indefinite" path="M190,170 L400,330"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3s" begin="0s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="3.6s" begin="1s" repeatCount="indefinite" path="M190,170 L400,90"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3.6s" begin="1s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="4s" begin="0.5s" repeatCount="indefinite" path="M190,90 L400,170"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="3.2s" begin="2s" repeatCount="indefinite" path="M190,330 L400,250"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3.2s" begin="2s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="2.8s" begin="0s" repeatCount="indefinite" path="M540,170 L796,210"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="2.8s" begin="0s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="3.4s" begin="1.2s" repeatCount="indefinite" path="M540,330 L796,210"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3.4s" begin="1.2s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="3s" begin="0.6s" repeatCount="indefinite" path="M540,90 L796,210"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
-    <circle r="3"><animateMotion dur="3.8s" begin="2s" repeatCount="indefinite" path="M540,250 L796,210"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3.8s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="2s" repeatCount="indefinite" path="M150,160 L240,300"/></circle>
+    <circle r="3"><animateMotion dur="2.4s" begin=".6s" repeatCount="indefinite" path="M150,160 L240,90"/></circle>
+    <circle r="3"><animateMotion dur="2.2s" begin="1s" repeatCount="indefinite" path="M150,90 L240,160"/></circle>
+    <circle r="3"><animateMotion dur="2.6s" begin="1.4s" repeatCount="indefinite" path="M150,300 L240,230"/></circle>
+    <circle r="3"><animateMotion dur="2s" repeatCount="indefinite" path="M360,160 L477,195"/></circle>
+    <circle r="3"><animateMotion dur="2.3s" begin=".5s" repeatCount="indefinite" path="M360,300 L477,195"/></circle>
+    <circle r="3"><animateMotion dur="2.1s" begin="1s" repeatCount="indefinite" path="M360,90 L477,195"/></circle>
+    <circle r="3"><animateMotion dur="2.5s" begin="1.5s" repeatCount="indefinite" path="M360,230 L477,195"/></circle>
   </g>
 
   <!-- 入力層ノード -->
-  <g>
-    <rect class="n" x="70" y="72"  width="120" height="36" rx="18"/><text x="130" y="90"  text-anchor="middle" dominant-baseline="central">C</text>
-    <rect class="n" x="70" y="152" width="120" height="36" rx="18" style="stroke:#58a6ff;stroke-opacity:.9"/><text x="130" y="170" text-anchor="middle" dominant-baseline="central">Python</text>
-    <rect class="n" x="70" y="232" width="120" height="36" rx="18"/><text x="130" y="250" text-anchor="middle" dominant-baseline="central">Java</text>
-    <rect class="n" x="70" y="312" width="120" height="36" rx="18"/><text x="130" y="330" text-anchor="middle" dominant-baseline="central">HTML/CSS/JS</text>
-  </g>
+  <rect class="n" x="30" y="73"  width="120" height="34" rx="17"/><text x="90" y="90"  text-anchor="middle" dominant-baseline="central">C</text>
+  <rect class="n hot" x="30" y="143" width="120" height="34" rx="17"/><text x="90" y="160" text-anchor="middle" dominant-baseline="central">Python</text>
+  <rect class="n" x="30" y="213" width="120" height="34" rx="17"/><text x="90" y="230" text-anchor="middle" dominant-baseline="central">Java</text>
+  <rect class="n" x="30" y="283" width="120" height="34" rx="17"/><text x="90" y="300" text-anchor="middle" dominant-baseline="central">HTML/CSS/JS</text>
 
   <!-- 隠れ層ノード -->
-  <g>
-    <rect class="n" x="400" y="72"  width="140" height="36" rx="18"/><text x="470" y="90"  text-anchor="middle" dominant-baseline="central">NumPy</text>
-    <rect class="n" x="400" y="152" width="140" height="36" rx="18"/><text x="470" y="170" text-anchor="middle" dominant-baseline="central">pandas</text>
-    <rect class="n" x="400" y="232" width="140" height="36" rx="18"/><text x="470" y="250" text-anchor="middle" dominant-baseline="central">scikit-learn</text>
-    <rect class="n" x="400" y="312" width="140" height="36" rx="18" style="stroke:#58a6ff;stroke-opacity:.9"/><text x="470" y="330" text-anchor="middle" dominant-baseline="central">PyTorch</text>
-  </g>
+  <rect class="n" x="240" y="73"  width="120" height="34" rx="17"/><text x="300" y="90"  text-anchor="middle" dominant-baseline="central">NumPy</text>
+  <rect class="n" x="240" y="143" width="120" height="34" rx="17"/><text x="300" y="160" text-anchor="middle" dominant-baseline="central">pandas</text>
+  <rect class="n" x="240" y="213" width="120" height="34" rx="17"/><text x="300" y="230" text-anchor="middle" dominant-baseline="central">scikit-learn</text>
+  <rect class="n hot" x="240" y="283" width="120" height="34" rx="17"/><text x="300" y="300" text-anchor="middle" dominant-baseline="central">PyTorch</text>
 
   <!-- 出力ノード -->
-  <circle cx="840" cy="210" r="46" fill="none" stroke="#58a6ff" stroke-opacity="0">
-    <animate attributeName="r" values="46;68" dur="2.5s" repeatCount="indefinite"/>
+  <circle cx="520" cy="195" r="44" fill="none" stroke="#58a6ff" stroke-opacity="0">
+    <animate attributeName="r" values="44;62" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="stroke-opacity" values=".6;0" dur="2.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="840" cy="210" r="46" fill="#58a6ff" fill-opacity=".08" stroke="#58a6ff" stroke-width="1.5"/>
-  <text x="840" y="210" text-anchor="middle" dominant-baseline="central" font-size="22" font-weight="700" style="font-size:22px;font-weight:700">NLP</text>
-  <text class="dim" x="840" y="284" text-anchor="middle" style="letter-spacing:0;font-size:11px">Natural Language Processing</text>
+  <circle cx="520" cy="195" r="44" fill="#58a6ff" fill-opacity=".1" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="520" y="195" text-anchor="middle" dominant-baseline="central" style="font-size:22px;font-weight:700">NLP</text>
 
   <!-- 環境 -->
-  <line class="e" x1="150" y1="372" x2="850" y2="372"/>
-  <text class="dim" x="500" y="398" text-anchor="middle" style="letter-spacing:1px">Jupyter  ·  Google Colab  ·  Kaggle  ·  VS Code  ·  PyCharm  ·  Git</text>
+  <line class="e" x1="40" y1="338" x2="560" y2="338"/>
+  <text class="dim" x="300" y="360" text-anchor="middle">TOOLS</text>
+  <text x="300" y="382" text-anchor="middle" style="font-size:14px">Jupyter · Colab · Kaggle · VS Code · PyCharm · Git</text>
 </svg>
