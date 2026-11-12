@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 148" width="560" height="148">
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Hiragino Sans',Helvetica,Arial,sans-serif}
+    .white{fill:#f0f6fc}
+    .grey{fill:#8b949e}
+  </style>
+
+  <rect x="1" y="1" width="558" height="146" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <text class="sans white" x="40" y="70" font-size="44" font-weight="700">- @akaru-endo -</text>
+  <rect x="40" y="82" width="56" height="4" rx="2" fill="#EAFF00"/>
+
+  <text class="sans grey" x="40" y="116" font-size="17">Kosen student · aiming for NLP research <tspan fill="#EAFF00">█<animate attributeName="fill" values="#EAFF00;#0d1117" keyTimes="0;.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>
