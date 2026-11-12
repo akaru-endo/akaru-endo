@@ -47,9 +47,6 @@
 
 ### S T A T S
 
-<img src="https://img.shields.io/github/followers/akaru-endo?style=flat-square&label=FOLLOWERS&labelColor=EAFF00&color=0D1117" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=akaru-endo&style=flat-square&label=PROFILE+VIEWS&labelColor=EAFF00&color=0D1117" alt="Profile views" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akaru-endo&hide_border=true&background=0D1117&ring=EAFF00&fire=EAFF00&currStreakNum=FFFFFF&currStreakLabel=EAFF00&sideNums=FFFFFF&sideLabels=9E9E9E&dates=6E7681&stroke=30363D" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=akaru-endo&hide_border=true&background=FFFFFF&ring=C7B300&fire=C7B300&currStreakNum=0D1117&currStreakLabel=9A8A00&sideNums=0D1117&sideLabels=57606A&dates=6E7681&stroke=D0D7DE" />
