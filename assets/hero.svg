@@ -1,47 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 296" width="560" height="296">
   <style>
-    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#24292f;font-size:16px}
-    @media (prefers-color-scheme: dark){text{fill:#e6edf3}}
-    .dim{fill:#8b949e;font-size:13px}
-    .acc{fill:#58a6ff}
-    .tk{fill:none;stroke:#8b949e;stroke-opacity:.7}
-    .hot{stroke:#58a6ff;stroke-opacity:.95}
-    .arc{fill:none;stroke:#58a6ff;stroke-linecap:round}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Hiragino Sans',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .grey{fill:#8b949e}
+    .white{fill:#f0f6fc}
+    .yel{fill:#EAFF00}
   </style>
 
-  <text class="dim" x="52" y="28">self-attention</text>
-  <text class="dim" x="548" y="28" text-anchor="end">softmax(QK^T/√d) V</text>
+  <rect x="1" y="1" width="558" height="294" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 
-  <!-- 注意の弧（太いほど重みが大きい） -->
-  <path class="arc" stroke-width="3" d="M498,150 Q401,70 304,150">
-    <animate attributeName="stroke-opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/>
-  </path>
-  <path class="arc" stroke-width="2" d="M498,150 Q450,105 401,150">
-    <animate attributeName="stroke-opacity" values=".3;1;.3" dur="3s" begin=".4s" repeatCount="indefinite"/>
-  </path>
-  <path class="arc" stroke-width="1.4" d="M498,150 Q318,-10 139,150">
-    <animate attributeName="stroke-opacity" values=".2;.8;.2" dur="3s" begin=".8s" repeatCount="indefinite"/>
-  </path>
-  <path class="arc" stroke-width="1" d="M498,150 Q285,-30 72,150">
-    <animate attributeName="stroke-opacity" values=".15;.6;.15" dur="3s" begin="1.2s" repeatCount="indefinite"/>
-  </path>
+  <!-- 名前 -->
+  <text class="sans white" x="40" y="66" font-size="44" font-weight="700">Akaru Endo</text>
+  <rect x="40" y="78" width="56" height="4" rx="2" fill="#EAFF00"/>
+  <text class="sans grey" x="40" y="108" font-size="17">Kosen student · aiming for NLP research</text>
 
-  <!-- 信号 -->
-  <circle r="3.5" fill="#58a6ff">
-    <animateMotion dur="3s" repeatCount="indefinite" path="M498,150 Q401,70 304,150"/>
-  </circle>
+  <line x1="40" y1="128" x2="520" y2="128" stroke="#30363d"/>
 
-  <!-- トークン -->
-  <rect class="tk" x="52"  y="150" width="40"  height="36" rx="8"/><text x="72"  y="168" text-anchor="middle" dominant-baseline="central">I</text>
-  <rect class="tk" x="104" y="150" width="70"  height="36" rx="8"/><text x="139" y="168" text-anchor="middle" dominant-baseline="central">study</text>
-  <rect class="tk" x="186" y="150" width="56"  height="36" rx="8"/><text x="214" y="168" text-anchor="middle" dominant-baseline="central">how</text>
-  <rect class="tk" x="254" y="150" width="100" height="36" rx="8"/><text x="304" y="168" text-anchor="middle" dominant-baseline="central">machines</text>
-  <rect class="tk" x="366" y="150" width="70"  height="36" rx="8"/><text x="401" y="168" text-anchor="middle" dominant-baseline="central">read</text>
-  <rect class="tk hot" x="448" y="150" width="100" height="36" rx="8"/><text x="498" y="168" text-anchor="middle" dominant-baseline="central">language</text>
+  <!-- プロンプト -->
+  <text class="mono white" x="40" y="162" font-size="20"><tspan fill="#EAFF00">&gt;</tspan> I want to study <tspan fill="#EAFF00">█<animate attributeName="fill" values="#EAFF00;#0d1117" keyTimes="0;.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></tspan></text>
+  <text class="mono grey" x="520" y="162" font-size="14" text-anchor="end">P(next token)</text>
 
-  <!-- 出力 -->
-  <text class="acc" x="52" y="215">→ Natural Language Processing</text>
-  <rect class="acc" x="340" y="202" width="9" height="18">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/>
+  <!-- 次トークン候補 -->
+  <!-- 1位：NLP -->
+  <text class="mono yel" x="40" y="198" font-size="17" font-weight="700" dominant-baseline="central">NLP</text>
+  <rect x="120" y="191" width="320" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="191" width="198" height="14" rx="7" fill="#EAFF00">
+    <animate attributeName="width" values="0;198;198;0" keyTimes="0;.25;.9;1" dur="6s" repeatCount="indefinite"/>
   </rect>
+  <text class="mono yel" x="520" y="198" font-size="16" font-weight="700" text-anchor="end" dominant-baseline="central">62%</text>
+
+  <!-- 2位：LLM -->
+  <text class="mono white" x="40" y="232" font-size="17" dominant-baseline="central">LLM</text>
+  <rect x="120" y="225" width="320" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="225" width="67" height="14" rx="7" fill="#6e7681">
+    <animate attributeName="width" values="0;67;67;0" keyTimes="0;.25;.9;1" dur="6s" begin=".2s" repeatCount="indefinite"/>
+  </rect>
+  <text class="mono grey" x="520" y="232" font-size="16" text-anchor="end" dominant-baseline="central">21%</text>
+
+  <!-- 3位：Math -->
+  <text class="mono white" x="40" y="266" font-size="17" dominant-baseline="central">Math</text>
+  <rect x="120" y="259" width="320" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="259" width="35" height="14" rx="7" fill="#6e7681">
+    <animate attributeName="width" values="0;35;35;0" keyTimes="0;.25;.9;1" dur="6s" begin=".4s" repeatCount="indefinite"/>
+  </rect>
+  <text class="mono grey" x="520" y="266" font-size="16" text-anchor="end" dominant-baseline="central">11%</text>
 </svg>
