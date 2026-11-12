@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/baner.svg" width="560" alt="- @akaru-endo - - Kosen student aiming for NLP research" />
+<img src="./assets/banner.svg" width="560" alt="- @akaru-endo - - Kosen student aiming for NLP research" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=EAFF00)](https://github.com/akaru-endo)
 [![Blog](https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=blogger&logoColor=EAFF00)](https://your-blog.com)
