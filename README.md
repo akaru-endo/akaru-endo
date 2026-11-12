@@ -71,37 +71,6 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### R O A D M A P
-
-<table>
-  <tr>
-    <td align="center"><sub><b>01</b></sub></td>
-    <td><b>Foundations</b></td>
-    <td><sub>C · Algorithms · Data Structures</sub></td>
-    <td align="center"><sub>● NOW</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>02</b></sub></td>
-    <td><b>Mathematics</b></td>
-    <td><sub>Linear Algebra · Probability · Statistics</sub></td>
-    <td align="center"><sub>○</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>03</b></sub></td>
-    <td><b>Machine Learning</b></td>
-    <td><sub>Python · NumPy · PyTorch</sub></td>
-    <td align="center"><sub>○</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>04</b></sub></td>
-    <td><b>NLP</b></td>
-    <td><sub>Embeddings · Transformer</sub></td>
-    <td align="center"><sub>○</sub></td>
-  </tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" />
-
 ### S T A T S
 
 <img src="https://img.shields.io/github/followers/akaru-endo?style=flat-square&label=FOLLOWERS&labelColor=0D1117&color=30363D" />
