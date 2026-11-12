@@ -1,20 +1,9 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="560" alt="Akaru Endo - Kosen student aiming for NLP research" />
+<img src="./assets/banner.svg" width="560" alt="Akaru Endo - Kosen student aiming for NLP research" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=EAFF00)](https://github.com/akaru-endo)
 [![Blog](https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=blogger&logoColor=EAFF00)](https://your-blog.com)
-
-<img src="./assets/divider.svg" width="100%" />
-
-### A B O U T
-
-<table>
-  <tr><td align="right"><sub><b>STATUS</b></sub></td><td>&nbsp;Kosen Student · Control & Information Engineering</td></tr>
-  <tr><td align="right"><sub><b>NOW</b></sub></td><td>&nbsp;C · Algorithms · Data Structures</td></tr>
-  <tr><td align="right"><sub><b>NEXT</b></sub></td><td>&nbsp;Linear Algebra · Probability · Transformer</td></tr>
-  <tr><td align="right"><sub><b>GOAL</b></sub></td><td>&nbsp;Research in Natural Language Processing</td></tr>
-</table>
 
 <img src="./assets/divider.svg" width="100%" />
 
