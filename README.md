@@ -16,7 +16,9 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&height=40&lines=Kosen+Student+%7C+Control+%26+Information+Engineering;Building+a+foundation+in+Algorithms+%26+Data+Structures;Next+Target%3A+Natural+Language+Processing;Always+learning%2C+one+commit+at+a+time." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=520&height=36&lines=Kosen+Student+%7C+Control+%26+Information+Engineering;Learning+how+machines+read+language;Next+token+prediction%2C+one+commit+at+a+time" alt="Typing animation" />
+
+<img src="./assets/hero.svg" width="640" alt="Self-attention over the sentence: I study how machines read language" />
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -25,7 +27,8 @@
 <table>
   <tr><td align="right"><sub><b>STATUS</b></sub></td><td>&nbsp;Kosen Student · Control & Information Engineering</td></tr>
   <tr><td align="right"><sub><b>NOW</b></sub></td><td>&nbsp;C · Algorithms · Data Structures</td></tr>
-  <tr><td align="right"><sub><b>NEXT</b></sub></td><td>&nbsp;Python · Linear Algebra · Probability · NLP</td></tr>
+  <tr><td align="right"><sub><b>NEXT</b></sub></td><td>&nbsp;Linear Algebra · Probability · NLP</td></tr>
+  <tr><td align="right"><sub><b>INTEREST</b></sub></td><td>&nbsp;Tokenization · Embeddings · Transformer · LLM</td></tr>
   <tr><td align="right"><sub><b>GOAL</b></sub></td><td>&nbsp;Research in Natural Language Processing</td></tr>
 </table>
 
@@ -33,7 +36,13 @@
 
 ### T E C H &nbsp; S T A C K
 
-<img src="./assets/neural-stack.svg" width="100%" alt="Python and ML libraries connected to NLP as a neural network" />
+<img src="./assets/neural-stack.svg" width="640" alt="Languages and ML libraries connected to NLP as a neural network" />
+
+<img src="./assets/divider.svg" width="100%" />
+
+### R O A D M A P
+
+<img src="./assets/roadmap.svg" width="640" alt="Roadmap: Foundations, Mathematics, Machine Learning, NLP" />
 
 <img src="./assets/divider.svg" width="100%" />
 
