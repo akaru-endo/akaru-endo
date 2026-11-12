@@ -55,16 +55,5 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### C O N T R I B U T I O N S
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akaru-endo/akaru-endo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akaru-endo/akaru-endo/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/akaru-endo/akaru-endo/output/github-snake.svg" alt="Snake animation" />
-</picture>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<sub>Predicting the next token, one commit at a time.</sub>
 
 </div>
