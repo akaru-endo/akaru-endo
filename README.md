@@ -33,11 +33,41 @@
 
 ### T E C H &nbsp; S T A C K
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux&theme=light&perline=8" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux&theme=dark&perline=8" alt="Tech Stack" />
-</picture>
+<table>
+  <tr>
+    <td align="right"><sub><b>LANGUAGES</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-21262D?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML-21262D?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-21262D?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATA & ML</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-21262D?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/pandas-21262D?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/scikit--learn-21262D?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/PyTorch-21262D?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>TOOLS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-21262D?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Google_Colab-21262D?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+      <img src="https://img.shields.io/badge/Kaggle-21262D?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+      <img src="https://img.shields.io/badge/VS_Code-21262D?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/PyCharm-21262D?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+
 
 <img src="./assets/divider.svg" width="100%" />
 
