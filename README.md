@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="560" alt="Akaru Endo: next-token prediction for 'I want to study', NLP 62%" />
+<img src="./assets/hero.svg" width="560" alt="Akaru Endo - Kosen student aiming for NLP research" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=EAFF00)](https://github.com/akaru-endo)
 [![Blog](https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=blogger&logoColor=EAFF00)](https://your-blog.com)
