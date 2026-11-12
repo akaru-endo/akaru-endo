@@ -40,11 +40,6 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### R O A D M A P
-
-<img src="./assets/roadmap.svg" width="640" alt="Roadmap: Foundations, Mathematics, Machine Learning, NLP" />
-
-<img src="./assets/divider.svg" width="100%" />
 
 ### S T A T S
 
